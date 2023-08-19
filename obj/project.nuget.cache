@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRISCGhaF7tTbkKsIj7Db3zh7V/m838CbBWJpZcuLUDuMVsIk2Xyn3GNrYzsmZoN+jwyuEx+tw2XNBjaPT/iXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\netProject\\drawTriangle\\drawTriangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

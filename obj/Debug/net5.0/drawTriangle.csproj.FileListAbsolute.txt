@@ -1,0 +1,16 @@
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\bin\Debug\net5.0\drawTriangle.exe
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\bin\Debug\net5.0\drawTriangle.deps.json
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\bin\Debug\net5.0\drawTriangle.runtimeconfig.json
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\bin\Debug\net5.0\drawTriangle.runtimeconfig.dev.json
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\bin\Debug\net5.0\drawTriangle.dll
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\bin\Debug\net5.0\drawTriangle.pdb
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\drawTriangle.csproj.AssemblyReference.cache
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\drawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\drawTriangle.AssemblyInfoInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\drawTriangle.AssemblyInfo.cs
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\drawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\drawTriangle.dll
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\refint\drawTriangle.dll
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\drawTriangle.pdb
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\drawTriangle.genruntimeconfig.cache
+C:\Users\tekta\OneDrive\Masaüstü\netProject\drawTriangle\obj\Debug\net5.0\ref\drawTriangle.dll
